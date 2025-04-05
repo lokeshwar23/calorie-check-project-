@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "dev":"node --watch app1.js",
+    "start":"node app1.js"
   },
   "author": "",
   "license": "ISC",
